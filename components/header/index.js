@@ -19,6 +19,18 @@ function Header() {
                     <a>Posts</a>
                     </Link>
                 </li>
+
+                <li className="px-4">
+                    <Link href="/contact">
+                    <a>Contact</a>
+                    </Link>
+                </li>
+
+                <li className="px-4">
+                    <Link href="/contact">
+                    <a>Develop Branch</a>
+                    </Link>
+                </li>
             </ul>
         </div>
     )
